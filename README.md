@@ -1,37 +1,37 @@
 
-# Hi, I'm Cosmin!
+# Hi, I'm Cosmin 👋
 
 ### Computer & Information Technology Student | Java & Spring Boot | Flutter
 
 I'm a **Computer and Information Technology student at UPB – ETTI**, mainly focused on **backend development**.
 
-I enjoy working on backend architecture, REST APIs, databases, security, and testing. I also build mobile and web applications with **Flutter**, so I get to work on both sides of an application.
+I enjoy working on backend architecture, REST APIs, databases, security, and testing. I also build mobile and web applications with **Flutter**, which allows me to work on complete applications, from backend to frontend.
 
-Currently, I'm building **TutorFrame**, improving my software engineering skills, and looking for opportunities to gain experience as a **Java / Backend Developer Intern**.
+Currently, I'm developing my own SaaS product, **TutorFrame**, improving my software engineering skills, and looking for opportunities to gain professional experience as a **Java / Backend Developer Intern**.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### TutorFrame — In Development
+### 🎓 TutorFrame — In Development
 
-A tutoring management platform I'm building with the goal of releasing it as a real product.
+**TutorFrame** is a commercial tutoring management platform I'm building from scratch, with the goal of launching it as a production application for real users.
 
-TutorFrame is designed to help tutors manage students, groups, sessions, recurring schedules, and learning materials, with mobile and web interfaces.
+The platform is designed to help tutors manage their students, groups, sessions, recurring schedules, and learning materials through mobile and web applications.
 
-I'm working on the full application, from backend architecture and business logic to authentication, automated tests, and Flutter integration.
+I'm developing the entire system, including backend architecture, database design, business logic, authentication, automated testing, and Flutter frontend integration.
 
-**Stack:** `Java` `Spring Boot` `Spring Security` `MySQL` `Flutter` `Dart` `Docker`
+**Stack:** `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `MySQL` `Flutter` `Dart` `Docker`
 
-*The project is private while it's in development.*
+*Proprietary software — source code is private.*
 
-### Fitness Tracker
+### 🏋️ Fitness Tracker
 
 [Backend API](https://github.com/cosmiinn75/fitness-tracker-api) · [Flutter Mobile App](https://github.com/cosmiinn75/fitness-tracker-app)
 
 A full-stack fitness application for tracking workouts, personal records, and training goals.
 
-The backend includes JWT authentication with refresh token rotation, REST APIs, Flyway migrations, pagination and filtering, automated tests, Docker support, and GitHub Actions CI.
+The backend includes JWT authentication with refresh token rotation, REST APIs, Flyway migrations, pagination and filtering, automated testing, Docker support, and GitHub Actions CI.
 
 **Stack:** `Java` `Spring Boot` `Spring Security` `MySQL` `Flutter` `JUnit` `Mockito` `Docker`
 
@@ -59,6 +59,7 @@ The backend includes JWT authentication with refresh token rotation, REST APIs, 
 
 ### Other Languages
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 
