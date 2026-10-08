@@ -1,135 +1,44 @@
-# Hi, I'm Cosmin 👋
+
+# Hi, I'm Cosmin!
 
 ### Computer & Information Technology Student | Java & Spring Boot | Flutter
 
-I'm a **Computer and Information Technology student at UPB – ETTI**, focused mainly on **backend and software development**.
+I'm a **Computer and Information Technology student at UPB – ETTI**, mainly focused on **backend development**.
 
-I enjoy building complete applications, designing REST APIs, working with databases, authentication, testing, and connecting backend systems with mobile applications.
+I enjoy working on backend architecture, REST APIs, databases, security, and testing. I also build mobile and web applications with **Flutter**, so I get to work on both sides of an application.
 
-My main stack is **Java + Spring Boot**, while I'm also developing mobile applications using **Flutter & Dart**.
-
-Currently, I'm improving my **Data Structures & Algorithms**, contributing to **open-source projects**, and building projects that go beyond tutorials and simulate real-world software development.
+Currently, I'm building **TutorFrame**, improving my software engineering skills, and looking for opportunities to gain experience as a **Java / Backend Developer Intern**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏋️ Fitness Tracker
+### TutorFrame — In Development
 
-A full-stack fitness tracking system built as two separate applications:
+A tutoring management platform I'm building with the goal of releasing it as a real product.
 
-#### Backend
+TutorFrame is designed to help tutors manage students, groups, sessions, recurring schedules, and learning materials, with mobile and web interfaces.
 
-🔗 [Fitness Tracker API](https://github.com/cosmiinn75/fitness-tracker-api)
+I'm working on the full application, from backend architecture and business logic to authentication, automated tests, and Flutter integration.
 
-A production-style REST API built with **Spring Boot**.
+**Stack:** `Java` `Spring Boot` `Spring Security` `MySQL` `Flutter` `Dart` `Docker`
 
-**Key features:**
+*The project is private while it's in development.*
 
-* JWT authentication and authorization
-* Access & refresh token rotation
-* Token revocation and secure logout
-* BCrypt password hashing
-* Workout management
-* Exercise definitions
-* Exercise history
-* Personal Records tracking
-* Training Goals system
-* Pagination, filtering and sorting
-* DTO-based API architecture
-* Global exception handling
-* Request validation
-* Flyway database migrations
-* Swagger / OpenAPI documentation
-* Spring Boot Actuator
-* Docker support
-* GitHub Actions CI
-* Unit, controller and integration tests
-* MySQL indexes and database optimizations
+### Fitness Tracker
 
-**Tech:**
-`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `MySQL` `JWT` `Flyway` `JUnit` `Mockito` `Docker` `GitHub Actions` `Swagger`
+[Backend API](https://github.com/cosmiinn75/fitness-tracker-api) · [Flutter Mobile App](https://github.com/cosmiinn75/fitness-tracker-app)
 
----
+A full-stack fitness application for tracking workouts, personal records, and training goals.
 
-#### Mobile Application
+The backend includes JWT authentication with refresh token rotation, REST APIs, Flyway migrations, pagination and filtering, automated tests, Docker support, and GitHub Actions CI.
 
-🔗 [Fitness Tracker App](https://github.com/cosmiinn75/fitness-tracker-app)
+**Stack:** `Java` `Spring Boot` `Spring Security` `MySQL` `Flutter` `JUnit` `Mockito` `Docker`
 
-A mobile application built with **Flutter** designed to work with the Fitness Tracker API.
+### Other Projects
 
-Features include:
-
-* Workout creation
-* Dynamic exercise sets
-* Exercise selection
-* Workout history
-* Input validation
-* Persistent workout state
-* REST API integration
-* Reusable custom widgets
-* Responsive mobile UI
-
-**Tech:**
-`Flutter` `Dart` `REST APIs` `SharedPreferences`
-
----
-
-### 🏦 Mini Banking API
-
-A backend banking application created to practice building structured Spring Boot applications.
-
-Implemented concepts such as:
-
-* RESTful API design
-* Controller-Service-Repository architecture
-* DTOs
-* Database persistence
-* Business logic
-* Validation
-* Exception handling
-
-**Tech:**
-`Java` `Spring Boot` `Spring Data JPA` `MySQL`
-
----
-
-### 🛒 Flutter E-Commerce App
-
-🔗 [Flutter E-Commerce App](https://github.com/cosmiinn75/flutter-ecommerce-app)
-
-A Flutter project built while learning mobile application architecture and state management.
-
-I worked with:
-
-* API communication
-* Product pages
-* Shopping cart logic
-* Reusable widgets
-* Responsive layouts
-* Navigation
-* State management with GetX
-
-**Tech:**
-`Flutter` `Dart` `GetX` `REST APIs`
-
----
-
-### 🎮 Tower Defense Game
-
-A Unity tower defense game featuring:
-
-* 10 playable levels
-* Object-Oriented architecture
-* Multiple tower and enemy types
-* Upgrade systems
-* Scriptable Objects
-* Game progression
-* Backend integration
-* Authentication using JWT
-
-**Tech:**
-`C#` `Unity` `Spring Boot` `REST API` `JWT`
+- **Mini Banking API** — A Spring Boot REST API focused on banking operations and business logic.
+- **Tower Defense** — A Unity game with 10 levels, upgrade systems, and Spring Boot backend integration.
 
 ---
 
@@ -137,118 +46,60 @@ A Unity tower defense game featuring:
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=spring-security\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Mobile
+### Mobile & Web
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Other Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🧠 What I'm Currently Learning
+## 📚 Currently Learning
 
-* Data Structures & Algorithms in Java
-* Advanced Spring Boot
-* REST API architecture
-* Database design & optimization
-* Application security
-* Flutter architecture
-* Backend ↔ Mobile integration
-* Docker & CI/CD
-* Open-source development workflows
+- Software architecture & system design
+- Advanced Java and Spring Boot
+- Data Structures & Algorithms
+- Database design and performance optimization
+- Application security and testing
 
----
-
-## 🎯 Current Goals
-
-* Build production-style backend applications
-* Improve my problem-solving and DSA skills
-* Contribute to open-source projects
-* Gain experience working with larger codebases
-* Improve software architecture and clean-code skills
-* Continue developing full-stack applications using **Spring Boot + Flutter**
-* Gain professional experience through a **Software Development / Backend Internship**
+I'm also interested in **open-source development** and learning from larger codebases.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmiinn75&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiinn75&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmiinn75&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiinn75&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cosmiinn75&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=cosmiinn75&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak"/>
 </p>
-
----
-
-## 💻 How I Like to Build Software
-
-I try to treat personal projects as more than simple demos.
-
-Instead of stopping after implementing basic CRUD operations, I like exploring concepts such as:
-
-* authentication and authorization
-* database migrations
-* testing
-* pagination and filtering
-* API documentation
-* Docker
-* CI/CD
-* error handling
-* application architecture
-* database optimization
-* frontend/backend integration
-
-My goal is to understand **why systems are designed a certain way**, not just make them work.
-
----
-
-## 🤝 Open to Collaboration
-
-I'm interested in:
-
-* Java / Spring Boot projects
-* Backend development
-* Flutter applications
-* REST API development
-* Open-source contributions
-* Projects where I can learn from larger real-world codebases
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: [@cosmiinn75](https://github.com/cosmiinn75)
-* LinkedIn: https://www.linkedin.com/in/cosmin-anghel/
-* Email: cosmin.v.anghel@gmail.com
-
----
-
-<p align="center">
-  <i>Always building, learning and improving.</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosmin-anghel/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmiinn75)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cosmin.v.anghel@gmail.com)
