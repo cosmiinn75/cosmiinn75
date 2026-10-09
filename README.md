@@ -7,7 +7,7 @@ I'm a **Computer and Information Technology student at UPB – ETTI**, mainly fo
 
 I enjoy working on backend architecture, REST APIs, databases, security, and testing. I also build mobile and web applications with **Flutter**, which allows me to work on complete applications, from backend to frontend.
 
-Currently, I'm developing my own SaaS product, **TutorFrame**, improving my software engineering skills, and looking for opportunities to gain professional experience as a **Java / Backend Developer Intern**.
+Currently, I'm developing my own product, **TutorFrame**, improving my software engineering skills, and looking for opportunities to gain professional experience as a **Java / Backend Developer Intern**.
 
 ---
 
@@ -21,7 +21,7 @@ The platform is designed to help tutors manage their students, groups, sessions,
 
 I'm developing the entire system, including backend architecture, database design, business logic, authentication, automated testing, and Flutter frontend integration.
 
-**Stack:** `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `MySQL` `Flutter` `Dart` `Docker`
+**Stack:** `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `PostgreSQL` `Flutter` `Dart` `Docker`
 
 *Proprietary software — source code is private.*
 
