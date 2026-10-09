@@ -1,5 +1,5 @@
 
-# Hi, I'm Cosmin 👋
+# Hi, I'm Cosmin
 
 ### Computer & Information Technology Student | Java & Spring Boot | Flutter
 
@@ -11,9 +11,9 @@ Currently, I'm developing my own SaaS product, **TutorFrame**, improving my soft
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎓 TutorFrame — In Development
+### TutorFrame — In Development
 
 **TutorFrame** is a commercial tutoring management platform I'm building from scratch, with the goal of launching it as a production application for real users.
 
@@ -25,7 +25,7 @@ I'm developing the entire system, including backend architecture, database desig
 
 *Proprietary software — source code is private.*
 
-### 🏋️ Fitness Tracker
+### Fitness Tracker
 
 [Backend API](https://github.com/cosmiinn75/fitness-tracker-api) · [Flutter Mobile App](https://github.com/cosmiinn75/fitness-tracker-app)
 
@@ -42,7 +42,7 @@ The backend includes JWT authentication with refresh token rotation, REST APIs, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -74,7 +74,7 @@ The backend includes JWT authentication with refresh token rotation, REST APIs, 
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Software architecture & system design
 - Advanced Java and Spring Boot
@@ -86,20 +86,7 @@ I'm also interested in **open-source development** and learning from larger code
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmiinn75&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiinn75&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cosmiinn75&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosmin-anghel/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmiinn75)
