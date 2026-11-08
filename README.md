@@ -28,7 +28,7 @@ I'm currently building **TutorFrame**, contributing to open-source projects, and
 
 I contribute to existing codebases to work on real issues, learn from maintainers, and improve software used beyond my own projects.
 
-- **[ThrottleIQ — fuel analytics localization and imperial units](https://github.com/blankframe-tech/ThrottleIQ/pull/167)** · *Open PR*  
+- **[ThrottleIQ — fuel analytics localization and imperial units](https://github.com/blankframe-tech/ThrottleIQ/pull/167)** · *Merged*  
   Added metric/imperial conversions and localized units across fuel charts, insights, tables, and CSV exports, with regression tests.
 
 - **[Jarvis AI Platform — Voice API test coverage](https://github.com/sujankim/jarvis-ai-platform/pull/155)** · *Merged*  
